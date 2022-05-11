@@ -13,7 +13,8 @@ SASS/SCSS<br>
 -MYSQL
 
 <h5>Backend</h5>
--PHP 7
+-PHP 7<br>
+-Node.js
 
 <h2>🌱Languages I'm currently and will be learning</h2>
 -React<br>
@@ -23,6 +24,8 @@ SASS/SCSS<br>
 
 <h2>🔧 Tool</h2>
 -Version Control (Git)
+
+<h2>CMS</h2>
 -Wordpress
 
 
@@ -32,3 +35,6 @@ SASS/SCSS<br>
   <h2>Other software</h2>
   -ftps
   
+  <h2>What I can DO</h2>
+-Output the design into coding  <br>
+-Create CMS system<br>
