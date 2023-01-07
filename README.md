@@ -5,9 +5,10 @@
 -HTML5<br>
 -CSS3<br>
 SASS/SCSS<br>
--Bootstrap 4
--ES6<br>
+-Bootstrap 4<br>
+-JSES6<br>
 -React (NOT INCLUDING REDUX)<br>
+VUE
 
 <h5>Database</h5>
 -MYSQL
